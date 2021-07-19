@@ -1,0 +1,83 @@
+[
+  {
+    "Name": "Colossal Titan",
+    "Height": "60 Meters",
+    "Stamina": 3,
+    "Attack": 9,
+    "Defense": 10,
+    "Special Ability": "Arm Swing",
+    "User": "Armin Arlert"
+  },
+  {
+    "Name": "Armored Titan",
+    "Height": "15 Meters",
+    "Stamina": 6,
+    "Attack": 7,
+    "Defense": 9,
+    "Special Ability": "Wallbreaker",
+    "User": "Reiner Braun"
+  },
+  {
+    "Name": "Attack Titan",
+    "Height": "15 Meters",
+    "Stamina": 8,
+    "Attack": 6,
+    "Defense": 8,
+    "Special Ability": "Hardened Body",
+    "User": "Eren Jaeger"
+  },
+  {
+    "Name": "Female Titan",
+    "Height": "14 Meters",
+    "Stamina": 8,
+    "Attack": 6,
+    "Defense": 7,
+    "Special Ability": "Titan Summon",
+    "User": "Annie Leonhart"
+  },
+  {
+    "Name": "Beast Titan",
+    "Height": "17 Meters",
+    "Stamina": 6,
+    "Attack": 8,
+    "Defense": 7,
+    "Special Ability": "Rock Throwing",
+    "User": "Zeke Jaeger"
+  },
+  {
+    "Name": "Jaw Titan",
+    "Height": "5 Meters",
+    "Stamina": 8,
+    "Attack": 4,
+    "Defense": 4,
+    "Special Ability": "Sharpness",
+    "User": "Porco Galliard"
+  },
+  {
+    "Name": "Cart Titan",
+    "Height": "4 Meters",
+    "Stamina": 10,
+    "Attack": 3,
+    "Defense": 3,
+    "Special Ability": "Cargo",
+    "User": "Pieck Finger"
+  },
+  {
+    "Name": "Warhammer Titan",
+    "Height": "15 Meters",
+    "Stamina": 5,
+    "Attack": 10,
+    "Defense": 6,
+    "Special Ability": "Weapon Crafting",
+    "User": "Eren Jaeger"
+  },
+  {
+    "Name": "Founding Titan",
+    "Height": "13 Meters",
+    "Stamina": 7,
+    "Attack": 8,
+    "Defense": 7,
+    "Special Ability": "Titan Transforming",
+    "User": "Eren Jaeger"
+  }
+]
